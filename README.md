@@ -1,4 +1,4 @@
-# SIMULATE SINGLE DECK BLACKJACK
+# SIMULATE SINGLE DECK BLACKJACK 
 The Blackjack Simulation project offers a collection of Python scripts designed to allow users to simulate and analyze various aspects of the classic card game, Blackjack. These simulations provide different perspectives on Blackjack gameplay, enabling users to explore different strategies, scenarios, and outcomes through simulation.
 
 ## Overview
