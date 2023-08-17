@@ -1,4 +1,4 @@
-# Blackjack simulator with splitting
+# Blackjack simulator with splitting 
 
 import random
 import tkinter as tk
