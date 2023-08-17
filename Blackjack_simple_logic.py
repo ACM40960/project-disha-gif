@@ -1,4 +1,4 @@
-# Blackjack simple logic
+# Blackjack simple logic 
 import random
 import tkinter as tk
 from tkinter import ttk
