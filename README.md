@@ -14,9 +14,9 @@ Player's decisions are based on the value of their hand. The player hits if thei
 This explores the intricacies of splitting hands. It allows users to observe the effects of splitting specific pairs of cards on their chances of winning, losing, or tying against the dealer. Demonstrates a more advanced simulation of Blackjack, incorporating splitting logic and a strategy based on dealer’s card (upcard).
 
 ## Blackjack Game Experience
-Experience Blackjack excitement with an interactive game interface and stylish design, where your every move determines your fate. 
+Experience Blackjack excitement with our interactive game interface and stylish design, where your every move determines your fate.
 
-## Strategies (Player)
+## Player Strategies 
 <img width="500" alt="Strategies" src="https://github.com/Sangyyyy/personal_use/assets/134233430/a8fdd9c6-b004-489d-bd76-5bff0c01c6b6">
 
 ## Flowchart 
