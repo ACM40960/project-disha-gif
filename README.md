@@ -17,10 +17,10 @@ Demonstrates a more advanced simulation of Blackjack, incorporating splitting lo
 Experience Blackjack excitement with our interactive game interface and stylish design, where your every move determines your fate.
 
 ## Player Strategies 
-<img width="500" alt="Strategies" src="https://github.com/Sangyyyy/personal_use/assets/134233430/a8fdd9c6-b004-489d-bd76-5bff0c01c6b6">
+<img width="530" alt="Strategies" src="https://github.com/Sangyyyy/personal_use/assets/134233430/a8fdd9c6-b004-489d-bd76-5bff0c01c6b6">
 
 ## Flowchart 
-<img width="500" alt="Flowchart" src="https://github.com/Sangyyyy/personal_use/assets/134233430/750b55fb-e701-4a75-9579-4ae96b27f48c">
+<img width="900" alt="Flowchart" src="https://github.com/Sangyyyy/personal_use/assets/134233430/750b55fb-e701-4a75-9579-4ae96b27f48c">
 
 ## Files guide
 1. Blackjack_Inexperienced_player.py : Inexperienced player strategy
@@ -75,16 +75,16 @@ These results are visualized using bar charts, showcasing the distribution of di
 The project culminates in a combined plot, comparing the strategies' simulation results. It showcases the distribution of wins, losses, and ties across 100,000 simulations, shedding light on the strategies' relative effectiveness.
 
 #### Blackjack_Inexperienced_player.py
-<img width="450" alt="Inexperienced" src="https://github.com/Sangyyyy/personal_use/assets/134233430/c815b7c3-6df1-41e0-84a6-7b54dbdede44">
+<img width="550" alt="Inexperienced" src="https://github.com/Sangyyyy/personal_use/assets/134233430/c815b7c3-6df1-41e0-84a6-7b54dbdede44">
 
 #### Blackjack_simple_logic.py
-<img width="450" alt="Simple" src="https://github.com/Sangyyyy/personal_use/assets/134233430/2758ce9e-164e-4271-8030-cef48706438a">
+<img width="550" alt="Simple" src="https://github.com/Sangyyyy/personal_use/assets/134233430/2758ce9e-164e-4271-8030-cef48706438a">
 
 #### Blackjack_with_splitting.py
-<img width="450" alt="Spiltting" src="https://github.com/Sangyyyy/personal_use/assets/134233430/97657cc7-35f0-4e36-b471-3bef9342088a">
+<img width="550" alt="Spiltting" src="https://github.com/Sangyyyy/personal_use/assets/134233430/97657cc7-35f0-4e36-b471-3bef9342088a">
 
 #### Blackjack_combined_plot_100000_sims.py
-<img width="650" alt="Combined" src="https://github.com/Sangyyyy/personal_use/assets/134233430/c4ea68f0-9adc-4a70-827e-5c41ad414ac3">
+<img width="850" alt="Combined" src="https://github.com/Sangyyyy/personal_use/assets/134233430/c4ea68f0-9adc-4a70-827e-5c41ad414ac3">
 
 1. Inexperienced player strategy - randomness often leads to unfavourable decisions; player tends to bust more frequently (high loss percentage) and make suboptimal decisions (lower win percentage).
 2. The simple logic strategy increases the player's chances of having a stronger hand but also exposes them to a higher risk of busting. Higher win percentage – due to player's tendency to reach higher hand values. Higher tie percentage - due to the simple strategy leading to similar hand values more often.
@@ -97,5 +97,8 @@ The project culminates in a combined plot, comparing the strategies' simulation 
 4. Users seeking visual insights into Blackjack strategy outcomes.
 
 ## Contributors
-This was created for a project submission for UCD Scool of Mathetmatics. Pull requests are welcome. For major changes, please open an issue to discuss.
+Pull requests are welcome. For major changes, please open an issue to discuss.
+
+## Contact
+This project was a collaborative submission to UCD School of Mathematics. To reach out to us - disha.satyanarayan@ucdconnect.ie or sangeeta.panigrahi@ucdconnect.ie
 
