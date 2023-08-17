@@ -2,7 +2,7 @@
 The Blackjack Simulation project offers a collection of Python scripts designed to allow users to simulate and analyze various aspects of the classic card game, Blackjack. These simulations provide different perspectives on Blackjack gameplay, enabling users to explore different strategies, scenarios, and outcomes through simulation.
 
 ## Overview
-This project aims to simulate different strategies of Blackjack and compare the results.
+This project aims to simulate different player strategies of Blackjack and compare the results.
 
 #### Inexperienced Blackjack Simulation: 
 Geared towards newcomers to the game, this one simplifies player actions to random choices between hitting and staying (random.choice(['hit', ‘stand']))
@@ -30,6 +30,19 @@ To run the Blackjack simulation codes on your local machine, follow these steps:
     2. Clone this repository or download the individual simulator scripts.
 
     3. Open a terminal or command prompt and navigate to the directory containing the simulator script you want to run.
+
+## Files guide
+1. Blackjack_Inexperienced_player.py : Inexperienced player strategy
+
+2. Blackjack_simple_logic.py : Simple player strategy
+
+3. Blackjack_with_splitting.py : Complex (with splitting) player strategy
+
+4. index.html : Blackjack interactive game webpage
+
+5. script.js : javascript for the webpage
+
+6. style.css : CSS for the webpage
     
 ## Usage
 1. Run a simulator script:
