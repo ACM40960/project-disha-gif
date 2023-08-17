@@ -84,7 +84,7 @@ The project culminates in a combined plot, comparing the strategies' simulation 
 <img width="350" alt="Spiltting" src="https://github.com/Sangyyyy/personal_use/assets/134233430/97657cc7-35f0-4e36-b471-3bef9342088a">
 
 #### Blackjack_combined_plot_100000_sims.py
-<img width="350" alt="Combined" src="https://github.com/Sangyyyy/personal_use/assets/134233430/c4ea68f0-9adc-4a70-827e-5c41ad414ac3">
+<img width="550" alt="Combined" src="https://github.com/Sangyyyy/personal_use/assets/134233430/c4ea68f0-9adc-4a70-827e-5c41ad414ac3">
 
 ## Target Audience
 1. Individuals interested in learning Blackjack strategies.
