@@ -41,7 +41,7 @@ def play_blackjack():
         else:
             break
     
-    # Dealer's turn: Keep hitting until the hand value is at least 17
+    # Dealer's turn: Keep hitting until the hand value is at least 17 
     while get_hand_value(dealer_hand) < 17:
         hit(dealer_hand)
         if get_hand_value(dealer_hand) > 21:
