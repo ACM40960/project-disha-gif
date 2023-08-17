@@ -4,7 +4,7 @@ let playerHand = [];
 let dealerHand = [];
 let dealerHiddenValue = null;
 
-// Function to deal a card
+// Function to deal a card 
 function dealCard() {
     return deck[Math.floor(Math.random() * deck.length)];
 }
