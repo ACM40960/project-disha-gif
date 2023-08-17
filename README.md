@@ -33,17 +33,13 @@ To run the Blackjack simulation codes on your local machine, follow these steps:
 
 ## Files guide
 1. Blackjack_Inexperienced_player.py : Inexperienced player strategy
-
 2. Blackjack_simple_logic.py : Simple player strategy
-
 3. Blackjack_with_splitting.py : Complex (with splitting) player strategy
-
-4. index.html : Blackjack interactive game webpage
-
-5. script.js : javascript for the webpage
-
-6. style.css : CSS for the webpage
-    
+4. Blackjack_combined_plot_10000_sims.py : Combined results plotted together
+5. index.html : Blackjack interactive game webpage
+6. script.js : javascript for the webpage
+7. style.css : CSS for the webpage
+       
 ## Usage
 1. Run a simulator script:
 ```bash
