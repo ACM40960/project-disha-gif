@@ -16,7 +16,7 @@ This explores the intricacies of splitting hands. It allows users to observe the
 ## Blackjack Game Experience
 Experience Blackjack excitement with an interactive game interface and stylish design, where your every move determines your fate. 
 
-## Strategies
+## Strategies (Player)
 <img width="500" alt="Strategies" src="https://github.com/Sangyyyy/personal_use/assets/134233430/a8fdd9c6-b004-489d-bd76-5bff0c01c6b6">
 
 ## Flowchart 
