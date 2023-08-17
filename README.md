@@ -11,7 +11,7 @@ Geared towards newcomers to the game, this one simplifies player actions to rand
 Player's decisions are based on the value of their hand. The player hits if their hand value is less than 17 and stands otherwise.
 
 #### Blackjack Simulation (Splitting pairs):
-This explores the intricacies of splitting hands. It allows users to observe the effects of splitting specific pairs of cards on their chances of winning, losing, or tying against the dealer. Demonstrates a more advanced simulation of Blackjack, incorporating splitting logic and a strategy based on dealer’s card (upcard).
+Demonstrates a more advanced simulation of Blackjack, incorporating splitting logic and a strategy based on dealer’s card (upcard). It allows users to observe the effects of splitting specific pairs of cards on their chances of winning, losing, or tying against the dealer. 
 
 ## Blackjack Game Experience
 Experience Blackjack excitement with our interactive game interface and stylish design, where your every move determines your fate.
@@ -22,15 +22,6 @@ Experience Blackjack excitement with our interactive game interface and stylish 
 ## Flowchart 
 <img width="500" alt="Flowchart" src="https://github.com/Sangyyyy/personal_use/assets/134233430/750b55fb-e701-4a75-9579-4ae96b27f48c">
 
-## Getting Started
-To run the Blackjack simulation codes on your local machine, follow these steps:
-
-    1. Ensure you have Python 3.x installed on your system.
-
-    2. Clone this repository or download the individual simulator scripts.
-
-    3. Open a terminal or command prompt and navigate to the directory containing the simulator script you want to run.
-
 ## Files guide
 1. Blackjack_Inexperienced_player.py : Inexperienced player strategy
 2. Blackjack_simple_logic.py : Simple player strategy
@@ -39,6 +30,15 @@ To run the Blackjack simulation codes on your local machine, follow these steps:
 5. index.html : Blackjack interactive game webpage
 6. script.js : javascript for the webpage
 7. style.css : CSS for the webpage
+
+## Getting Started
+To run the Blackjack simulation codes on your local machine, follow these steps:
+
+    1. Ensure you have Python 3.x installed on your system.
+
+    2. Clone this repository or download the individual simulator scripts.
+
+    3. Open a terminal or command prompt and navigate to the directory containing the simulator script you want to run.
        
 ## Usage
 1. Run a simulator script:
@@ -75,16 +75,20 @@ These results are visualized using bar charts, showcasing the distribution of di
 The project culminates in a combined plot, comparing the strategies' simulation results. It showcases the distribution of wins, losses, and ties across 100,000 simulations, shedding light on the strategies' relative effectiveness.
 
 #### Blackjack_Inexperienced_player.py
-<img width="350" alt="Inexperienced" src="https://github.com/Sangyyyy/personal_use/assets/134233430/c815b7c3-6df1-41e0-84a6-7b54dbdede44">
+<img width="450" alt="Inexperienced" src="https://github.com/Sangyyyy/personal_use/assets/134233430/c815b7c3-6df1-41e0-84a6-7b54dbdede44">
 
 #### Blackjack_simple_logic.py
-<img width="350" alt="Simple" src="https://github.com/Sangyyyy/personal_use/assets/134233430/2758ce9e-164e-4271-8030-cef48706438a">
+<img width="450" alt="Simple" src="https://github.com/Sangyyyy/personal_use/assets/134233430/2758ce9e-164e-4271-8030-cef48706438a">
 
 #### Blackjack_with_splitting.py
-<img width="350" alt="Spiltting" src="https://github.com/Sangyyyy/personal_use/assets/134233430/97657cc7-35f0-4e36-b471-3bef9342088a">
+<img width="450" alt="Spiltting" src="https://github.com/Sangyyyy/personal_use/assets/134233430/97657cc7-35f0-4e36-b471-3bef9342088a">
 
 #### Blackjack_combined_plot_100000_sims.py
-<img width="550" alt="Combined" src="https://github.com/Sangyyyy/personal_use/assets/134233430/c4ea68f0-9adc-4a70-827e-5c41ad414ac3">
+<img width="650" alt="Combined" src="https://github.com/Sangyyyy/personal_use/assets/134233430/c4ea68f0-9adc-4a70-827e-5c41ad414ac3">
+
+1. Inexperienced player strategy - randomness often leads to unfavourable decisions; player tends to bust more frequently (high loss percentage) and make suboptimal decisions (lower win percentage).
+2. The simple logic strategy increases the player's chances of having a stronger hand but also exposes them to a higher risk of busting. Higher win percentage – due to player's tendency to reach higher hand values. Higher tie percentage - due to the simple strategy leading to similar hand values more often.
+3. Complex logic (with Splitting Strategy) has higher Win Percentage; the complex strategy likely makes better use of opportunities to split pairs, which can result in stronger hands - more potential wins. More risks involved - the strategy might take calculated risks that lead to busting. For instance, hitting on certain hands could backfire, contributing to a higher loss percentage. The complex strategy likely prioritizes actions that avoid ties by actively seeking wins or losses (lower tie percentage).
 
 ## Target Audience
 1. Individuals interested in learning Blackjack strategies.
@@ -93,5 +97,5 @@ The project culminates in a combined plot, comparing the strategies' simulation 
 4. Users seeking visual insights into Blackjack strategy outcomes.
 
 ## Contributors
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+This was created for a project submission for UCD Scool of Mathetmatics. Pull requests are welcome. For major changes, please open an issue to discuss.
 
